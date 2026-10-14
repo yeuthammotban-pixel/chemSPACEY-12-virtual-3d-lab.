@@ -1,0 +1,8 @@
+{
+  "name": "ChemSPACEY - Học Hóa Bằng Tư Duy và Thực Nghiệm",
+  "description": "Nền tảng học Hóa học lớp 12 GDPT 2018 toàn diện: Lý thuyết trực quan, Sơ đồ tư duy, Flashcard lặp lại ngắt quãng, Phòng thí nghiệm 3D tương tác chân thực và Luyện thi tốt nghiệp THPT chuẩn cấu trúc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
